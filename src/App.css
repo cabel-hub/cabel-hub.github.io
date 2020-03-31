@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+    
+}
+
+
+
+:root {
+    --headline: 240, 231, 65;
+    --text: 230,220,230;
+    --filter: 109, 195, 196;
+    --background: 52, 52, 52;
+    --font: "Pressura", monospace
+}
+
+
+body{
+   
+    font-family: 'Source Serif Pro', serif;
+    background-color: rgb(var(--background));
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.h1 {
+    position: relative;
+    text-align: center;
+    
+}
+
+.citrus1 {
+    
+    opacity: 20;
+}
+
+.link{
+    
+    color:rgb(var(--text));;
+}
+
+.textWhite{
+    
+    color: rgb(var(--text));
+}
+

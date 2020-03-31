@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71ebd76d.chunk.css",
+    "main.js": "/static/js/main.84e0164c.chunk.js",
+    "main.js.map": "/static/js/main.84e0164c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6327a604.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6327a604.js.map",
+    "static/js/2.a7451269.chunk.js": "/static/js/2.a7451269.chunk.js",
+    "static/js/2.a7451269.chunk.js.map": "/static/js/2.a7451269.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e5ebe61d7f12f16cc09e27e425a5cb21.js": "/precache-manifest.e5ebe61d7f12f16cc09e27e425a5cb21.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.71ebd76d.chunk.css.map": "/static/css/main.71ebd76d.chunk.css.map",
+    "static/media/citrus1.png": "/static/media/citrus1.54b8adad.png",
+    "static/media/videoplayback.mp4": "/static/media/videoplayback.ed1e44b9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6327a604.js",
+    "static/js/2.a7451269.chunk.js",
+    "static/css/main.71ebd76d.chunk.css",
+    "static/js/main.84e0164c.chunk.js"
+  ]
+}
